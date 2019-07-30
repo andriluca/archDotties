@@ -1,0 +1,70 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/luca/
+	..
+1560798294
+'b
+	/home/luca/bin/
+	..
+1560798294
+'h
+	/home/luca/
+	..
+1560798294
+
+# Bookmarks:
+
+# TUI:
+ar
+q0
+v1
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/luca
+	..
+0
+d
+
+# Right window history (oldest to newest):
+D/home/luca
+	OnePlus
+3
+D/home/luca/OnePlus
+	Camera
+1
+D/home/luca/OnePlus/Camera
+	IMG_20190330_232345.jpg
+13
+D
+
+# Command line history (oldest to newest):
+:q
+
+# Search history (oldest to newest):
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].1
+]F
+s0
